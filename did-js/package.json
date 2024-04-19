@@ -1,0 +1,15 @@
+{
+  "name": "did",
+  "version": "1.0.0",
+  "description": "",
+  "main": "did-js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@decentralized-identity/did-common-typescript": "^0.1.19"
+  }
+}
